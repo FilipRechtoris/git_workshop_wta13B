@@ -1,18 +1,39 @@
 # Úvod do testovania 
-* čo je exploratory testing
+čo je exploratory testing
+funkcionalne a nefunkcionalne testovanie
 # Session based testing 
-* ako sa tvoria test cases
+exploratory testing
+ako sa tvoria test cases
 # Jira and Bug
-* práca s toolom na manažovanie a report bugov
+praca s toolom na manažovanie a report bugov
+ako zadat bug
+priorita vs severita
+zivotny cyklus bugu
+Jira reporty
 # Manažment testovania 
+planovanie testovania 
+seldovania postupu testovania 
+testrail
 # Modely vývoja software-u 
-* SDLC
-* STLC
+sekvencne vyvojove modely
+iterativne a cyklicke modely
+SDLC 
+STLC
 # Techniky tvorby testov
-# HTML, CSS, JavaScript 
-**základy mark up a scriptovacieho jazyka**
+proces vyvoja testu 
+techniky navrhov testov 
+# HTML, CSS, JavaScript
+zaklady mark up a scriptovacieho jazyka 
+heading 1,2,3
+tagy, elementy 
 # Nástroje testovania 
+zapisovanie test casov
+testovacie data
 # Testovanie API 
+Postman
+HTTP request metody
 # SQL 
-* práca s relačnými databázami
+praca s relacnymi databazami
+spajanie dvoch a viacerych tabuliek
 # Robot Framework 
+Selenium
