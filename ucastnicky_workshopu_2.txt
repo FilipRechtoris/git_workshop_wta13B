@@ -1,6 +1,5 @@
 <<<<<<< Updated upstream
 Ľuboslava Nováková
-=======
 Lucia Šoucová
->>>>>>> Stashed changes
+Lea Mikulcova
 Filip Rechtoris
