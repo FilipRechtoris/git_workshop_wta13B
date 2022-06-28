@@ -10,6 +10,7 @@
 * STLC
 # Techniky tvorby testov
 # HTML, CSS, JavaScript 
+**základy mark up a scriptovacieho jazyka**
 # Nástroje testovania 
 # Testovanie API 
 # SQL 
