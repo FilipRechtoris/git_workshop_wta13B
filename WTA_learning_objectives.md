@@ -1,41 +1,72 @@
 # Úvod do testovania 
-čo je exploratory testing
-funkcionalne a nefunkcionalne testovanie
+* Prečo testovať
+* Omyl,defekt,zlyhanie
+* Čo je testovanie
+* Testovanie a kvalita
+* Ciele testovania
+* 7 základných princípov testovania
+* Testovacie procesy
+
 # Session based testing 
-exploratory testing
-ako sa tvoria test cases
+* Exploratory testing
+* Z čoho sa skladá session based testing
+
 # Jira and Bug
-praca s toolom na manažovanie a report bugov
-ako zadat bug
-priorita vs severita
-zivotny cyklus bugu
-Jira reporty
+* Čo je JIRA
+* Ako zadať bug
+* Životný cyklus bugu
+* Jira filtre
+* Jira reporty
+* Jira dashboard
+
 # Manažment testovania 
-planovanie testovania 
-seldovania postupu testovania 
-testrail
+* Postavenie QA v štruktúre projektu
+* Plánovanie, odhadovanie, sledovanie a riadenie postupu testovania
+* Riziko a testovanie
+* Incident
+* Technická špecifikácia 
+* Testrail
 # Modely vývoja software-u 
-sekvencne vyvojove modely
-iterativne a cyklicke modely
-SDLC 
-STLC
+* Životný cyklus softvérového vývoja a testovania
+* Sekvenčné vývojové modely
+* Iteratívne a cyklické modely
+* Agilný prístup
+* Agilné techniky a metodológie
+
 # Techniky tvorby testov
-proces vyvoja testu 
-techniky navrhov testov 
-# HTML, CSS, JavaScript
-zaklady mark up a scriptovacieho jazyka 
-heading 1,2,3
-tagy, elementy 
-# Nástroje testovania 
-zapisovanie test casov
-testovacie data
+* Proces vývoja testu
+* Kategórie techník návrhu testov
+* Black box techniques
+* White box techniques
+* Experience based techniques
+* Výber testovacích techník
+
+# HTML, CSS, JavaScript 
+* História
+* Čo je to element
+* Čo je to HTML, CSS a JavaScript
+
+# Nástroje testovania
+* Účel testovacích nástrojov
+* Manažment testovania
+* Testovacie dáta
+* Testovanie výkonu, bezpečnosti, API testovanie
+* Testovanie pokrytia
+* Statická analýza
+* Automatizácia testovania
+
 # Testovanie API 
-Postman
-HTTP request metody
+* Teoretické základy API
+* Testovanie cez nástroj Postman
+* Developer tools
+
 # SQL 
-praca s relacnymi databazami
-spajanie dvoch a viacerych tabuliek
+* Teoretické základy SQL
+* Čo je to databáza, typy databáz, Primárny kľúč
+* Samotný SQL syntax (SELECT, WHERE, AND, OR, NOT, LIKE, IN, DISTINCT, BETWEEN, GROPU BY, Agregačné funkcie)
+* ALIAS, INSERT INTO, UPDATE, DELETE, NULL, JOINS
+
 # Robot Framework 
-Selenium
-# Konflikt
-Kedy vznikne konflikt a ako ho manualne odstranit
+* Predstavenie RF
+* Nastavenie prostredia pre RF
+* Funkčné UI testovanie s RF
