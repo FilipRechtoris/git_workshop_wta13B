@@ -37,3 +37,5 @@ praca s relacnymi databazami
 spajanie dvoch a viacerych tabuliek
 # Robot Framework 
 Selenium
+# Konflikt
+Kedy vznikne konflikt a ako ho manualne odstranit
