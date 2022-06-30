@@ -5,9 +5,18 @@
 * Testovanie a kvalita
 * Ciele testovania
 * 7 základných princípov testovania
+    1. Testovanie ukazuje na prítomnosť defektov ale nikdy na ich neprítomnosť
+    2. Vyčerpávajúce testovanie je nemožné.
+    3. Včasné testovanie šetrí čas a peniaze.
+    4. Zhlukovanie defektov. 
+    5. Pesticídny paradox.
+    6. Testovanie je závislé na kontexte.
+    7. Falošná predstava o neexistencii omylov.
+
+
 * Testovacie procesy
 
-# *Session based testing* 
+# *Session-based testing* 
 * Exploratory testing
 * Z čoho sa skladá session based testing
 
