@@ -1,32 +1,33 @@
-# Úvod do testovania 
+# **Úvod do testovania**
 * Prečo testovať
-* Omyl,defekt,zlyhanie
+* Omyl, defekt, zlyhanie
 * Čo je testovanie
 * Testovanie a kvalita
 * Ciele testovania
 * 7 základných princípov testovania
 * Testovacie procesy
 
-# Session based testing 
+# *Session based testing* 
 * Exploratory testing
 * Z čoho sa skladá session based testing
 
 # Jira and Bug
-* Čo je JIRA
-* Ako zadať bug
-* Životný cyklus bugu
-* Jira filtre
-* Jira reporty
-* Jira dashboard
+1. Čo je JIRA
+2. Ako zadať bug
+3. Životný cyklus bugu
+4. Jira filtre
+5. Jira reporty
+6. Jira dashboard
 
-# Manažment testovania 
+### *Manažment testovania* ###
 * Postavenie QA v štruktúre projektu
 * Plánovanie, odhadovanie, sledovanie a riadenie postupu testovania
 * Riziko a testovanie
 * Incident
 * Technická špecifikácia 
 * Testrail
-# Modely vývoja software-u 
+
+# ***Modely vývoja software-u*** 
 * Životný cyklus softvérového vývoja a testovania
 * Sekvenčné vývojové modely
 * Iteratívne a cyklické modely
@@ -41,7 +42,7 @@
 * Experience based techniques
 * Výber testovacích techník
 
-# HTML, CSS, JavaScript 
+# ****HTML, CSS, JavaScript**** 
 * História
 * Čo je to element
 * Čo je to HTML, CSS a JavaScript
@@ -60,10 +61,10 @@
 * Testovanie cez nástroj Postman
 * Developer tools
 
-# SQL 
+# **SQL**
 * Teoretické základy SQL
 * Čo je to databáza, typy databáz, Primárny kľúč
-* Samotný SQL syntax (SELECT, WHERE, AND, OR, NOT, LIKE, IN, DISTINCT, BETWEEN, GROPU BY, Agregačné funkcie)
+* Samotný **SQL** syntax (**SELECT, WHERE, AND, OR, NOT, LIKE, IN, DISTINCT, BETWEEN, GROPU BY, Agregačné funkcie**)
 * ALIAS, INSERT INTO, UPDATE, DELETE, NULL, JOINS
 
 # Robot Framework 
