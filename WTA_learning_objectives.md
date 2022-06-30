@@ -2,8 +2,26 @@
 * Omyl, defekt, zlyhanie
 * Ciele testovania
 * 7 základných princípov testovania
-* Testovacie procesy 
-# Session based testing 
+    1. Testovanie ukazuje na prítomnosť defektov ale nikdy na ich neprítomnosť
+    2. Vyčerpávajúce testovanie je nemožné.
+    3. Včasné testovanie šetrí čas a peniaze.
+    4. Zhlukovanie defektov. 
+    5. Pesticídny paradox.
+    6. Testovanie je závislé na kontexte.
+    7. Falošná predstava o neexistencii omylov.
+
+* Testovacie procesy
+Činnosti/úlohy testera:
+    Plánovanie a riadenie testovania
+    Analýza a návrh testovania
+    Implementácia a vykonanie testovania
+    Vyhodnotenie výstupných kritérií a reportovanie
+    Činnosti súvisiace s ukončením testovania
+
+# *Session-based testing* 
+* Exploratory testing
+* Z čoho sa skladá session based testing
+
 # Jira and Bug
 * Životný cyklus bugu
 # Manažment testovania
