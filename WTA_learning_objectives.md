@@ -13,8 +13,13 @@
     6. Testovanie je závislé na kontexte.
     7. Falošná predstava o neexistencii omylov.
 
-
 * Testovacie procesy
+Činnosti/úlohy testera:
+    Plánovanie a riadenie testovania
+    Analýza a návrh testovania
+    Implementácia a vykonanie testovania
+    Vyhodnotenie výstupných kritérií a reportovanie
+    Činnosti súvisiace s ukončením testovania
 
 # *Session-based testing* 
 * Exploratory testing
