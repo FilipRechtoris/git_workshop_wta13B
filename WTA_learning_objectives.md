@@ -12,7 +12,7 @@
 * Z čoho sa skladá session based testing
 
 # Jira and Bug
-1. Čo je JIRA
+1. Čo je [JIRA](https://docs.google.com/presentation/d/1fHlxQ-NV8gVqLUd0v-wP3qIqxRp9JDRl/edit#slide=id.p1)
 2. Ako zadať bug
 3. Životný cyklus bugu
 4. Jira filtre
