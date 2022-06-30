@@ -42,7 +42,7 @@
 * Experience based techniques
 * Výber testovacích techník
 
-# ****HTML, CSS, JavaScript**** 
+# [****HTML, CSS, JavaScript****](https://docs.google.com/presentation/d/1fF2PID5WY2qi2JPNpsihOp9iC1lEZs11/edit#slide=id.p1) 
 * História
 * Čo je to element
 * Čo je to HTML, CSS a JavaScript
