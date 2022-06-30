@@ -1,5 +1,10 @@
 <<<<<<< Updated upstream
 Ľuboslava Nováková
+<<<<<<< HEAD
 Lucia Šoucová
+=======
+Ivana Kubáňová
+>>>>>>> main
 Lea Mikulcova
 Filip Rechtoris
+
