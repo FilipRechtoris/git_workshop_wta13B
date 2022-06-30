@@ -71,3 +71,5 @@
 * Predstavenie RF
 * Nastavenie prostredia pre RF
 * Funkčné UI testovanie s RF
+
+![Leto je tu!](https://cdn.webnoviny.sk/sites/32/2013/07/leto-horucavy-teplo-dovolenka-slnk.jpg "Leto je tu")
