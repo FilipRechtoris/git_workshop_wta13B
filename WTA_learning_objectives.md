@@ -41,6 +41,7 @@
 * White box techniques
 * Experience based techniques
 * Výber testovacích techník
+* Testovaci pripad
 
 # [****HTML, CSS, JavaScript****](https://docs.google.com/presentation/d/1fF2PID5WY2qi2JPNpsihOp9iC1lEZs11/edit#slide=id.p1) 
 * História
